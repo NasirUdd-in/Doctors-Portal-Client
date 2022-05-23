@@ -4,7 +4,7 @@ import Grid from '@mui/material/Grid';
 import doctor from '../../../images/doctor.png'
 import bg from '../../../images/appointment-bg.png'
 import { Button, Typography } from '@mui/material';
-import { fontSize } from '@mui/system';
+// import { fontSize } from '@mui/system';
 
 const appointmentBg = {
     background: `url(${bg})`,
