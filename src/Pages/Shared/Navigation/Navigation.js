@@ -28,6 +28,9 @@ const Navigation = () => {
           <Link to="/user">
             <Button color="inherit"> Nasir</Button>
           </Link>
+          <Link to="/appointment">
+            <Button color="inherit"> appointment </Button>
+          </Link>
           <Button color="inherit">Login</Button>
         </Toolbar>
       </AppBar>
